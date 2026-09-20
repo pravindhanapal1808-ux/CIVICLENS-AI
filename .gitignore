@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+.venv/
+venv/
+env/
+
+*.db
+civic_reports.db
+
+.vscode/
+.idea/
+
+.DS_Store
